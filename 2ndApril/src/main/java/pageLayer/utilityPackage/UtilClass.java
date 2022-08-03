@@ -21,8 +21,4 @@ public class UtilClass {
 	}
 	
 	
-	public void takeSS()
-	{
-		
-	}
 }
